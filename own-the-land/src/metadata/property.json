@@ -1,0 +1,22 @@
+{
+  "id": 0,
+  "alcaldia": "BENITO JUAREZ",
+  "cuenta_catastral": "026_240_21",
+  "calle": "TAJIN",
+  "no_externo": 28.0,
+  "colonia": "PIEDAD NARVARTE",
+  "codigo_postal": "03000",
+  "uso_descripcion": "Habitacional",
+  "superficie": 335.95,
+  "densidad_descripcion": "1 Viv c\\/33 m2 de terreno",
+  "niveles": 4.0,
+  "altura": null,
+  "area_libre": 20.0,
+  "minimo_vivienda": 60.0,
+  "coordenadas": "-99.1523039029, 19.4028057476",
+  "liga_ciudadmx": "http:\\/\\/ciudadmx.cdmx.gob.mx:8080\\/seduvi\\/fichasReporte\\/fichaInformacion.jsp?nombreConexion=cBenitoJuarez&cuentaCatastral=026_240_21&idDenuncia=&ocultar=1&x=-99.1523039029&y=19.4028057476&z=0.5",
+  "longitud": -99.1523039029,
+  "latitud": 19.4028057476,
+  "geopoint": "19.4028057476,-99.1523039029",
+  "value": "6,500,000"
+}
